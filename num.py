@@ -1,0 +1,1 @@
+# viết hàm tìm ước chung lớn nhất
